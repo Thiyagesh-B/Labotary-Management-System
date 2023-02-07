@@ -5,7 +5,7 @@ LOGIN DETAILS:
 Username: admin
 Password: admin123
 
-**Developed By Magesh Kanna**
+**Developed By Thiyagesh**
 
 DON'T FORGET TO CREATE A DATABASE "lms19" AND IMPORT THE SQL FILE.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
