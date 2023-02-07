@@ -1,3 +1,5 @@
+⭐ Download and extract the LAB zip file to get the full source code for the Laboratory Management System.
+
 LABORATORY MANAGEMENT SYSTEM - PHP
 
 LOGIN DETAILS:
